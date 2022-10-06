@@ -1,4 +1,4 @@
-![ErickJ3´s GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickJ3&show_icons=true&theme=radical)
+[![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickJ3)](https://github.com/ErickJ3/github-readme-stats)
 
 ## Top languages
 
